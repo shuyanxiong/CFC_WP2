@@ -6,6 +6,7 @@ This repository is intended for documenting and sharing codes for CFC project re
 
 A simplified tool to support calculation of dimensional limits for concrete re-use. Parameters could be defined for personal use.
 Please check out and play with it at: [Reuse Concrete Tool](https://reuse-concrete.azurewebsites.net/)
+![Recording 2025-08-25 162744](https://github.com/user-attachments/assets/2df623e0-1162-426f-a82d-5a688a5c84a3)
 
 Journal Paper available at: [full paper](https://doi.org/10.1088/2634-4505/ad7a22)
 
